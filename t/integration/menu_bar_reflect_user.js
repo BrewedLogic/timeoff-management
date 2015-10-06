@@ -127,8 +127,6 @@ describe('Menu bar reflect permissions of logged in user', function(){
         .then( function(){ return bluebird.resolve(data) });
     })
 
-
-
     .then(function(data){ return data.driver.quit(); })
     .then(function(){ done(); });
   });
