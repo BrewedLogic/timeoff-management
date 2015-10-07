@@ -47,7 +47,7 @@ Information about employees leaves could be broadcasted to all major calendar pr
 
 ### Cloud hosting
 
-Visit http://timeoff.management/ 
+Visit http://timeoff.management/
 
 Create company account and use cloud based version.
 
